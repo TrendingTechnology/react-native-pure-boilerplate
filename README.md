@@ -18,7 +18,7 @@
 You can simply clone the project and start with your barebone project
 
 ```sh
-git clone git@github.com:WrathChaos/react-native-pure-boilerplate.git
+git clone git@github.com:WrathChaos/react-native-pure-boilerplate.git my-app-name
 ```
 
 # What's Included?
