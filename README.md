@@ -110,6 +110,10 @@ import { theme, fonts, colors, spacing, fontSize } from "@shared-styles/index";
 - [ ] MobX State Tree Fork Version
 - [ ] Write an article about the lib on Medium
 
+## Credits
+
+<span>Photo by <a href="https://unsplash.com/@aznbokchoy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lucas Benjamin</a> on <a href="/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
 ## Author
 
 FreakyCoder, kurayogun@gmail.com
