@@ -10,7 +10,7 @@
 
 <p align="center">
   <img alt="React Native Pure Boilerplate"
-        src="https://github.com/WrathChaos/react-native-pure-boilerplate/blob/master/assets/Screenshots/JSLibraryBoilerplate.png" />
+        src="assets/RN-Pure-Boilerplate.gif" />
 </p>
 
 # Installation
