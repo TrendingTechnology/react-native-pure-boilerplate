@@ -10,7 +10,7 @@
 
 <p align="center">
   <img alt="React Native Pure Boilerplate"
-        src="assets/RN-Pure-Boilerplate.gif" />
+        src="assets/RN-Pure-Boilerplate.gif" height="650" />
 </p>
 
 # Installation
