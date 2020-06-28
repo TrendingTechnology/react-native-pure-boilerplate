@@ -31,6 +31,7 @@ git clone git@github.com:WrathChaos/react-native-pure-boilerplate.git my-app-nam
 - Local Storage Utils Functions
 - HTTP Network Management (Axios)
 - Built-in EventEmitter (EventBus)
+- Ready to see Stack and Tab Screens with navigation
 - Babel Plugin Module Resolver to fix the relative path problem (visit .babelrc)
 
 # Step By Step Guide
