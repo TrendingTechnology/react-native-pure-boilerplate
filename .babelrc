@@ -5,20 +5,18 @@
       {
         "root": ["./src"],
         "alias": [
-          { "shared-components": "./src/shared/components" },
-          { "shared-constants": "./src/shared/constants" },
-          { "font-size": "./src/shared/theme/font-size" },
-          { "requests": "./src/services/api/requests" },
-          { "fonts": "./src/shared/theme/fonts/index" },
-          { "spacing": "./src/shared/theme/spacing" },
-          { "colors": "./src/shared/theme/colors" },
-          { "shared-theme": "./src/shared/theme" },
-          { "theme": "./src/shared/theme/index" },
-          { "services": "./src/services" },
-          { "api": "./src/services/api" },
-          { "screens": "./src/screens" },
-          { "utils": "./src/utils/" },
-          { "assets": "./assets/" }
+          { "@shared-components": "./src/shared/components" },
+          { "@shared-constants": "./src/shared/constants" },
+          { "@shared-theme": "./src/shared/theme" },
+          { "@font-size": "./src/shared/theme/font-size" },
+          { "@api": "./src/services/api/index" },
+          { "@fonts": "./src/shared/theme/fonts/index" },
+          { "@colors": "./src/shared/theme/colors" },
+          { "@theme": "./src/shared/theme/index" },
+          { "@services": "./src/services" },
+          { "@screens": "./src/screens" },
+          { "@utils": "./src/utils/" },
+          { "@assets": "./assets/" }
         ]
       }
     ]
