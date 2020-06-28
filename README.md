@@ -71,10 +71,6 @@ sdk.dir=/Users/your-name/Library/Android/sdk
 
 - cd .. & react-native run-ios/android
 
-<hr>
-
-<hr>
-
 # Components
 
 ## Styles
