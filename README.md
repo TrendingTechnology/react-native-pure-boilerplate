@@ -83,7 +83,7 @@ sdk.dir=/Users/your-name/Library/Android/sdk
 ## Imports
 
 ```jsx
-import colors from "colors";
+import colors from "@colors";
 ```
 
 ```jsx
