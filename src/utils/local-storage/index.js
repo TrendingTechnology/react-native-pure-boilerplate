@@ -12,7 +12,7 @@ export const storeLocalStorage = (key, data) =>
     }
   });
 
-export const fetchFromLocalStorage = key =>
+export const fetchLocalStorage = (key) =>
   new Promise(async (resolve, reject) => {
     try {
       const value = await AsyncStorage.getItem(key, null);
