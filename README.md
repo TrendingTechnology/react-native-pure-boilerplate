@@ -21,6 +21,16 @@ You can simply clone the project and start with your barebone project
 git clone git@github.com:WrathChaos/react-native-pure-boilerplate.git my-app-name
 ```
 
+### Clean-Up & Simple Run
+
+Clean up the files from the example repository and do not forget to install the dependencies
+
+```sh
+rm -rf .git README.md
+npm i 
+react-native run-ios/android
+```
+
 # What's Included?
 
 - React Navigation V5
